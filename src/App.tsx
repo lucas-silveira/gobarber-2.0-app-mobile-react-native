@@ -3,8 +3,6 @@ import { View } from 'react-native';
 
 // import { Container } from './styles';
 
-const src: React.FC = () => {
-  return <View />;
-};
+const App: React.FC = () => <View />;
 
-export default src;
+export default App;
